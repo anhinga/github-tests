@@ -13,3 +13,7 @@ https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11
 
 Presumably, it's not language-specific, and even not necessarily size-specific, and things can work one day and not work another day, judging from the discussion in that issue. That's frustrating...
 
+The workaround is that this notebook renders fine on https://nbviewer.jupyter.org/ :
+
+https://nbviewer.jupyter.org/github/anhinga/github-tests/blob/main/Untitled.ipynb
+
