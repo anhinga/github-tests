@@ -17,3 +17,8 @@ The workaround is that this notebook renders fine on https://nbviewer.jupyter.or
 
 https://nbviewer.jupyter.org/github/anhinga/github-tests/blob/main/Untitled.ipynb
 
+---
+
+Testing animated gifs in Markdown:
+
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
