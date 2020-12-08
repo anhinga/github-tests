@@ -3,7 +3,9 @@ Mostly for tests of github functionality and other scraps
 
 ---
 
-I just wanted to see if a Julia Jupyter notebook would render OK. I had good experience with Python Jupyter notebooks before.
+I just wanted to see if a Julia Jupyter notebook would render OK. I had good experience with Python Jupyter notebooks before in terms of their rendering on GitHub, e.g. here:
+
+https://github.com/anhinga/synapses
 
 But I've run into this issue with my `Untitled.ipynb`:
 
