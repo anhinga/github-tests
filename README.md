@@ -23,4 +23,4 @@ Testing animated gifs in Markdown:
 
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
-### _test `highlights inside heading` texts_ 
+### ✅ _test `highlights inside heading` texts_ 
