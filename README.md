@@ -22,3 +22,5 @@ https://nbviewer.jupyter.org/github/anhinga/github-tests/blob/main/Untitled.ipyn
 Testing animated gifs in Markdown:
 
 ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
+# test `highlights inside heading` texts 
