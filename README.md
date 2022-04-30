@@ -17,6 +17,10 @@ The workaround is that this notebook renders fine on https://nbviewer.jupyter.or
 
 https://nbviewer.jupyter.org/github/anhinga/github-tests/blob/main/Untitled.ipynb
 
+```diff
+@@ today this notebook renders just fine on GitHub (April 30, 2022) @@
+```
+
 ---
 
 Testing animated gifs in Markdown:
