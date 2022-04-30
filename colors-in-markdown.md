@@ -11,5 +11,5 @@ https://github.com/github/markup/issues/369
 + green
 ! orange
 # gray
-@@ purple
+@@ purple @@
 ```
