@@ -64,3 +64,6 @@ how about
 
 Still no, although in README.md the purple one works. But today (Boston morning of Sep.19, 2023) everything is half-broken on GitHub,
 contribution counter is not advancing, etc... Let's revisit later...
+
+_A bit later:_ the GitHub contribution counter is fixed, this color construction works at the beginning of the file, but then renderer
+breaks down for some reason.
