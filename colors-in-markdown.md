@@ -30,11 +30,17 @@ OK, works above, but, for some reason, the renderer gets confused below at the m
 
 <h2>
 ```diff
+  
 - red
+ 
 + green
+
 ! orange
+
 # gray
+
 @@ purple @@
+
 ```
 </h2>
 
