@@ -26,7 +26,7 @@ https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-
 
 https://github.com/github/markup/issues/369
 
-OK, works here, but, for some reason, the renderer gets confused below at the moment:
+OK, works above, but, for some reason, the renderer gets confused below at the moment:
 
 <h2>
 
