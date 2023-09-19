@@ -13,3 +13,27 @@ https://github.com/github/markup/issues/369
 # gray
 @@ purple @@
 ```
+
+the above used to work, but no more
+
+how about
+
+```diff
+- red
+```
+
+```diff
++ green
+```
+
+```diff
+! orange
+```
+
+```diff
+# gray
+```
+
+```diff
+@@ purple @@
+```
