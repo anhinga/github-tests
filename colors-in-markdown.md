@@ -37,3 +37,6 @@ how about
 ```diff
 @@ purple @@
 ```
+
+Still no, although in README.md the purple one works. But today (Boston morning of Sep.19, 2023) everything is half-broken on GitHub,
+contribution counter is not advancing, etc... Let's revisit later...
