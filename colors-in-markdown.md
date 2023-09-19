@@ -29,6 +29,7 @@ https://github.com/github/markup/issues/369
 OK, works above, but, for some reason, the renderer gets confused below at the moment:
 
 <h2>
+
 ```diff
   
 - red
@@ -42,6 +43,7 @@ OK, works above, but, for some reason, the renderer gets confused below at the m
 @@ purple @@
 
 ```
+
 </h2>
 
 the above used to work, but no more
@@ -78,4 +80,18 @@ and this
 @@ purple @@
 ```
 
-OK, so this coloring scheme just does not work within header's anymore...
+```diff
+
+- red
+
++ green
+
+! orange
+
+# gray
+
+@@ purple @@
+
+```
+
+OK, so this coloring scheme just does not work within headers (like H2) anymore, but works otherwise...
