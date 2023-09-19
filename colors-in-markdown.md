@@ -29,7 +29,6 @@ https://github.com/github/markup/issues/369
 OK, works above, but, for some reason, the renderer gets confused below at the moment:
 
 <h2>
-
 ```diff
 - red
 + green
@@ -37,6 +36,7 @@ OK, works above, but, for some reason, the renderer gets confused below at the m
 # gray
 @@ purple @@
 ```
+</h2>
 
 the above used to work, but no more
 
