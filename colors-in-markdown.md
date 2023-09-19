@@ -6,6 +6,10 @@ adding a bit of plain text (trying to deconfuse the renderer)
 @@ purple @@
 ```
 
+```diff
+- red
+```
+
 https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file
 
 https://github.com/github/markup/issues/369
